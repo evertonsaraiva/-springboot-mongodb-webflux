@@ -60,6 +60,15 @@ O projeto necessita:
 4. Abrir outra aba do navegador e informar a mesma url: http://localhost:8080/pokemons/events
 5. Verificar que os eventos são assíncronos
 
+### 🚀 Screenshots de eventos assíncronos
+1. Primeira aba
+![image](https://user-images.githubusercontent.com/1674340/112302200-dd98b180-8cab-11eb-8b17-2658d3ea26ac.png)
+
+2. Segunda aba
+![image](https://user-images.githubusercontent.com/1674340/112302418-1e90c600-8cac-11eb-9318-a65328d189ad.png)
+
+3. Visualizando múltiplas abas
+![image](https://user-images.githubusercontent.com/1674340/112302508-39633a80-8cac-11eb-9280-71f25f7f229d.png)
 
 ---
 
