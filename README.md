@@ -52,6 +52,15 @@ O projeto necessita:
 4. Postman: fazer requisições rest
 5. Navegador: chrome ou firefox
 
+### 🚀 Exemplo para verificar o funcionamento de eventos assíncronos do webflux
+
+1. Abrir uma aba do navegador
+2. Informar: http://localhost:8080/pokemons/events
+3. Aguardar em torno de 15 segundos - a cada 5 segundos será visualizado um novo evento
+4. Abrir outra aba do navegador e informar a mesma url: http://localhost:8080/pokemons/events
+5. Verificar que os eventos são assíncronos
+
+
 ---
 
 ##  Versões do README
